@@ -1,15 +1,15 @@
 <?php
 //Database Server Name:
-DEFINE('DBHost','localhost');
+DEFINE('DBHost','remotemysql.com');
 
 //Database Username:
-DEFINE('DBUser', 'root');
+DEFINE('DBUser', 'jNxFb24UHD');
 
 //Database Password:
-DEFINE('DBPass','');
+DEFINE('DBPass','TV49BxywRW');
 
 //Database Name:
-DEFINE('DBName','news247');
+DEFINE('DBName','jNxFb24UHD');
 
 //Character set:
 DEFINE('DBCharset','utf8mb4');
