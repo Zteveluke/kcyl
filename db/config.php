@@ -1,15 +1,15 @@
 <?php
 //Database Server Name:
-DEFINE('DBHost','remotemysql.com');
+DEFINE('DBHost','sql10.freemysqlhosting.net');
 
 //Database Username:
-DEFINE('DBUser', 'jNxFb24UHD');
+DEFINE('DBUser', 'sql10470093');
 
 //Database Password:
-DEFINE('DBPass','TV49BxywRW');
+DEFINE('DBPass','xFM7rKN3mb');
 
 //Database Name:
-DEFINE('DBName','jNxFb24UHD');
+DEFINE('DBName','sql10470093');
 
 //Character set:
 DEFINE('DBCharset','utf8mb4');
